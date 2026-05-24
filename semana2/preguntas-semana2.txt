@@ -1,11 +1,11 @@
-pregunta 1
+Pregunta 1
 respuesta: B
 
-pregunta 2
+Pregunta 2
 respuesta: B
 
-pregunta 3
+Pregunta 3
 respuesta: C
 
-pregunga 4
+Pregunta 4
 respuesta: B
