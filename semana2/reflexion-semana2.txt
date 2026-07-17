@@ -1,0 +1,5 @@
+Para mí, aprender a usar la terminal es súper importante porque te da el control real de lo que estás haciendo en un proyecto. 
+Al principio puede dar un poco de miedo ver solo una pantalla negra, pero cuando le agarras el tiro, te das cuenta de que es mucho más rápido moverte y organizar tus carpetas con comandos que estar haciendo clics con el ratón.
+Además, casi todo en la programación de hoy en día, como trabajar con Git y subir proyectos a internet, se hace desde ahí.
+Dominar la terminal te ahorra muchísimo tiempo, te vuelve un desarrollador más ágil y te ayuda a entender de verdad cómo están organizados tus archivos por dentro sin depender de una interfaz visual.
+
