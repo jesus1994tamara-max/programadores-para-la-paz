@@ -1,0 +1,6 @@
+Repositorio
+​Es como una carpeta digital inteligente donde se guarda todo el proyecto. La diferencia con una carpeta normal es que Git vigila este lugar de cerca, registrando cada cambio que hacemos, cada archivo nuevo y todo el historial para que nunca perdamos el trabajo.
+​Commit
+​Es como tomarle una foto o hacer un guardado rápido al estado actual de tu proyecto en un momento específico. Sirve para registrar un avance importante en el código, poniéndole un mensaje corto para saber qué cambiaste y poder regresar a esa versión en el futuro si algo sale mal.
+​Push
+​Es el comando que se usa para enviar todos los cambios y "fotos" (commits) que has guardado en tu teléfono o computadora hacia el internet, específicamente a tu plataforma de respaldo como GitHub. Sirve para que tu proyecto en la nube se actualice y quede guardado de forma segura fuera de tu dispositivo.

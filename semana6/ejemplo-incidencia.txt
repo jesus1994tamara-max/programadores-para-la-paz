@@ -1,0 +1,5 @@
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Alcantarillado",
+  "descripcion": "Vecinos de la avenida central informan que una tapa de registro colapsó tras las lluvias de ayer, generando un agujero peligroso para los vehículos y malos olores en la zona."
+}
