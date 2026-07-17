@@ -1,0 +1,8 @@
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+EXPLICACIÓN:
+Al realizar la petición POST hacia la ruta de registro local... Al realizar la petición POST hacia la ruta de registro local (http://localhost:3000/registro), el servidor procesa los datos enviados en el formato JSON y retorna una respuesta de confirmación exitosa. Específicamente, el servidor devuelve un objeto JSON con tres propiedades: un "estado" que lleva el texto "Datos recibidos", confirmando que la información llegó correctamente al backend; seguido por el "nombre" asignado como "Maria" y el "mensaje" con el texto "Hola comunidad". Esta respuesta demuestra que el servidor no solo recibe los parámetros, sino que está programado para ecoar o reflejar los mismos datos estructurados que el cliente le transmitió, validando así que la ruta de comunicación está completamente operativa.

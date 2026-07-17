@@ -1,0 +1,11 @@
+Pregunta 1
+respuesta: B
+
+Pregunta 2
+respuesta: B
+
+Pregunta 3
+respuesta: C
+
+Pregunta 4
+respuesta: B
