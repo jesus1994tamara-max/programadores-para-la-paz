@@ -1,0 +1,6 @@
+Para mí, que un proyecto tenga un registro de cambios con Git es clave porque es como tener un salvavidas a la mano todo el tiempo.
+Cuando uno está programando, es súper normal meter la pata, borrar algo sin querer o que el código se rompa y no sepas ni por qué.
+Si no usas Git, te toca empezar casi desde cero o volverte loca buscando el fallo, pero con esta herramienta puedes ver el historial exacto y devolverte a la última versión que sí corría bien.
+Además, si en el futuro trabajas con más personas, te ayuda a que nadie le caiga encima al trabajo del otro.
+Al final del día, te da la tranquilidad de probar cosas nuevas y avanzar sin miedo a tirar a perder lo que ya tenías listo.
+

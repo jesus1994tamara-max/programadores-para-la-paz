@@ -1,0 +1,6 @@
+La importancia de que las plataformas tecnológicas reciban reportes ciudadanos de manera estructurada radica en la velocidad y la eficiencia de la respuesta.
+Cuando un vecino envía una queja de forma desordenada, se pierde tiempo valioso intentando descifrar cuál es el problema real y en qué lugar exacto ocurre.
+En cambio, al utilizar un formato definido como el código JSON, el sistema puede procesar, clasificar y priorizar la información automáticamente sin errores de interpretación.
+Esto permite que las alertas por fallas en servicios públicos o infraestructura lleguen directamente al área encargada sin intermediarios.
+Además, tener datos organizados facilita la creación de un historial digital del barrio para ver qué problemas se repiten más seguido. En conclusión, la estructura transforma un simple mensaje en una herramienta de gestión comunitaria rápida, transparente y con un impacto directo en la mejora de nuestro entorno.
+
